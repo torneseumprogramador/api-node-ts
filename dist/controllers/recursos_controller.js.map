@@ -1,0 +1,1 @@
+{"version":3,"file":"recursos_controller.js","sourceRoot":"","sources":["../../src/controllers/recursos_controller.ts"],"names":[],"mappings":";;AAAA,+DAA6D;AAE7D;IAAA;IAKA,CAAC;IAJQ,wBAAK,GAA+B,UAAC,GAAG,EAAE,GAAG;QAClD,IAAM,WAAW,GAAG,IAAA,gCAAc,GAAE,CAAC;QACrC,GAAG,CAAC,IAAI,CAAC,WAAW,CAAC,CAAC;IACxB,CAAC,CAAA;IACH,yBAAC;CAAA,AALD,IAKC;AAED,kBAAe,kBAAkB,CAAC"}
